@@ -1,0 +1,367 @@
+
+============================================================
+START: daneAG/low-dimensional/f1_l-d_kp_10_269
+Parametry: sel=ranking, cross=single, cr=0.9, mr=0.01, pop=100, gens=500, repair=False
+============================================================
+Pokolenie    0 | Najlepsza wartość: 146
+Pokolenie   50 | Najlepsza wartość: 293
+Pokolenie  100 | Najlepsza wartość: 293
+Pokolenie  150 | Najlepsza wartość: 293
+Pokolenie  200 | Najlepsza wartość: 293
+Pokolenie  250 | Najlepsza wartość: 293
+Pokolenie  300 | Najlepsza wartość: 293
+Pokolenie  350 | Najlepsza wartość: 293
+Pokolenie  400 | Najlepsza wartość: 293
+Pokolenie  450 | Najlepsza wartość: 293
+Pokolenie  499 | Najlepsza wartość: 293
+
+==================================================
+CZAS WYKONANIA: 5.0 sekund (0.1 minut)
+NAJLEPSZE: 293 / Optimum: 295 (99.32%)
+Waga: 249/269
+==================================================
+Zapisano: hist_f1_l-d_kp_10_269_ranking_single_cr0.9_mr0.01.txt
+
+
+============================================================
+START: daneAG/low-dimensional/f1_l-d_kp_10_269
+Parametry: sel=ranking, cross=single, cr=0.9, mr=0.05, pop=100, gens=500, repair=False
+============================================================
+Pokolenie    0 | Najlepsza wartość: 172
+Pokolenie   50 | Najlepsza wartość: 295
+Pokolenie  100 | Najlepsza wartość: 295
+Pokolenie  150 | Najlepsza wartość: 295
+Pokolenie  200 | Najlepsza wartość: 295
+Pokolenie  250 | Najlepsza wartość: 295
+Pokolenie  300 | Najlepsza wartość: 295
+Pokolenie  350 | Najlepsza wartość: 295
+Pokolenie  400 | Najlepsza wartość: 295
+Pokolenie  450 | Najlepsza wartość: 295
+Pokolenie  499 | Najlepsza wartość: 295
+
+==================================================
+CZAS WYKONANIA: 5.7 sekund (0.1 minut)
+NAJLEPSZE: 295 / Optimum: 295 (100.00%)
+Waga: 269/269
+==================================================
+Zapisano: hist_f1_l-d_kp_10_269_ranking_single_cr0.9_mr0.05.txt
+
+
+============================================================
+START: daneAG/low-dimensional/f1_l-d_kp_10_269
+Parametry: sel=ranking, cross=single, cr=0.9, mr=0.1, pop=100, gens=500, repair=False
+============================================================
+Pokolenie    0 | Najlepsza wartość: 121
+Pokolenie   50 | Najlepsza wartość: 295
+Pokolenie  100 | Najlepsza wartość: 295
+Pokolenie  150 | Najlepsza wartość: 295
+Pokolenie  200 | Najlepsza wartość: 295
+Pokolenie  250 | Najlepsza wartość: 295
+Pokolenie  300 | Najlepsza wartość: 295
+Pokolenie  350 | Najlepsza wartość: 295
+Pokolenie  400 | Najlepsza wartość: 295
+Pokolenie  450 | Najlepsza wartość: 295
+Pokolenie  499 | Najlepsza wartość: 295
+
+==================================================
+CZAS WYKONANIA: 5.7 sekund (0.1 minut)
+NAJLEPSZE: 295 / Optimum: 295 (100.00%)
+Waga: 269/269
+==================================================
+Zapisano: hist_f1_l-d_kp_10_269_ranking_single_cr0.9_mr0.1.txt
+
+
+============================================================
+START: daneAG/low-dimensional/f1_l-d_kp_10_269
+Parametry: sel=roulette, cross=single, cr=0.9, mr=0.05, pop=100, gens=500, repair=False
+============================================================
+Pokolenie    0 | Najlepsza wartość: 140
+Pokolenie   50 | Najlepsza wartość: 295
+Pokolenie  100 | Najlepsza wartość: 295
+Pokolenie  150 | Najlepsza wartość: 295
+Pokolenie  200 | Najlepsza wartość: 295
+Pokolenie  250 | Najlepsza wartość: 295
+Pokolenie  300 | Najlepsza wartość: 295
+Pokolenie  350 | Najlepsza wartość: 295
+Pokolenie  400 | Najlepsza wartość: 295
+Pokolenie  450 | Najlepsza wartość: 295
+Pokolenie  499 | Najlepsza wartość: 295
+
+==================================================
+CZAS WYKONANIA: 5.3 sekund (0.1 minut)
+NAJLEPSZE: 295 / Optimum: 295 (100.00%)
+Waga: 269/269
+==================================================
+Zapisano: hist_f1_l-d_kp_10_269_roulette_single_cr0.9_mr0.05.txt
+
+
+============================================================
+START: daneAG/low-dimensional/f1_l-d_kp_10_269
+Parametry: sel=tournament, cross=single, cr=0.9, mr=0.05, pop=100, gens=500, repair=False
+============================================================
+Pokolenie    0 | Najlepsza wartość: 198
+Pokolenie   50 | Najlepsza wartość: 295
+Pokolenie  100 | Najlepsza wartość: 295
+Pokolenie  150 | Najlepsza wartość: 295
+Pokolenie  200 | Najlepsza wartość: 295
+Pokolenie  250 | Najlepsza wartość: 295
+Pokolenie  300 | Najlepsza wartość: 295
+Pokolenie  350 | Najlepsza wartość: 295
+Pokolenie  400 | Najlepsza wartość: 295
+Pokolenie  450 | Najlepsza wartość: 295
+Pokolenie  499 | Najlepsza wartość: 295
+
+==================================================
+CZAS WYKONANIA: 0.6 sekund (0.0 minut)
+NAJLEPSZE: 295 / Optimum: 295 (100.00%)
+Waga: 269/269
+==================================================
+Zapisano: hist_f1_l-d_kp_10_269_tournament_single_cr0.9_mr0.05.txt
+
+
+============================================================
+START: daneAG/low-dimensional/f10_l-d_kp_20_879
+Parametry: sel=ranking, cross=single, cr=0.9, mr=0.01, pop=100, gens=600, repair=False
+============================================================
+Pokolenie    0 | Najlepsza wartość: 276
+Pokolenie   50 | Najlepsza wartość: 1025
+Pokolenie  100 | Najlepsza wartość: 1025
+Pokolenie  150 | Najlepsza wartość: 1025
+Pokolenie  200 | Najlepsza wartość: 1025
+Pokolenie  250 | Najlepsza wartość: 1025
+Pokolenie  300 | Najlepsza wartość: 1025
+Pokolenie  350 | Najlepsza wartość: 1025
+Pokolenie  400 | Najlepsza wartość: 1025
+Pokolenie  450 | Najlepsza wartość: 1025
+Pokolenie  500 | Najlepsza wartość: 1025
+Pokolenie  550 | Najlepsza wartość: 1025
+Pokolenie  599 | Najlepsza wartość: 1025
+
+==================================================
+CZAS WYKONANIA: 16.7 sekund (0.3 minut)
+NAJLEPSZE: 1025 / Optimum: 1025 (100.00%)
+Waga: 871/879
+==================================================
+Zapisano: hist_f10_l-d_kp_20_879_ranking_single_cr0.9_mr0.01.txt
+
+
+============================================================
+START: daneAG/low-dimensional/f10_l-d_kp_20_879
+Parametry: sel=ranking, cross=single, cr=0.9, mr=0.05, pop=100, gens=600, repair=False
+============================================================
+Pokolenie    0 | Najlepsza wartość: 180
+Pokolenie   50 | Najlepsza wartość: 1025
+Pokolenie  100 | Najlepsza wartość: 1025
+Pokolenie  150 | Najlepsza wartość: 1025
+Pokolenie  200 | Najlepsza wartość: 1025
+Pokolenie  250 | Najlepsza wartość: 1025
+Pokolenie  300 | Najlepsza wartość: 1025
+Pokolenie  350 | Najlepsza wartość: 1025
+Pokolenie  400 | Najlepsza wartość: 1025
+Pokolenie  450 | Najlepsza wartość: 1025
+Pokolenie  500 | Najlepsza wartość: 1025
+Pokolenie  550 | Najlepsza wartość: 1025
+Pokolenie  599 | Najlepsza wartość: 1025
+
+==================================================
+CZAS WYKONANIA: 15.7 sekund (0.3 minut)
+NAJLEPSZE: 1025 / Optimum: 1025 (100.00%)
+Waga: 871/879
+==================================================
+Zapisano: hist_f10_l-d_kp_20_879_ranking_single_cr0.9_mr0.05.txt
+
+
+============================================================
+START: daneAG/low-dimensional/f10_l-d_kp_20_879
+Parametry: sel=ranking, cross=single, cr=0.9, mr=0.1, pop=100, gens=600, repair=False
+============================================================
+Pokolenie    0 | Najlepsza wartość: 240
+Pokolenie   50 | Najlepsza wartość: 1025
+Pokolenie  100 | Najlepsza wartość: 1025
+Pokolenie  150 | Najlepsza wartość: 1025
+Pokolenie  200 | Najlepsza wartość: 1025
+Pokolenie  250 | Najlepsza wartość: 1025
+Pokolenie  300 | Najlepsza wartość: 1025
+Pokolenie  350 | Najlepsza wartość: 1025
+Pokolenie  400 | Najlepsza wartość: 1025
+Pokolenie  450 | Najlepsza wartość: 1025
+Pokolenie  500 | Najlepsza wartość: 1025
+Pokolenie  550 | Najlepsza wartość: 1025
+Pokolenie  599 | Najlepsza wartość: 1025
+
+==================================================
+CZAS WYKONANIA: 14.9 sekund (0.2 minut)
+NAJLEPSZE: 1025 / Optimum: 1025 (100.00%)
+Waga: 871/879
+==================================================
+Zapisano: hist_f10_l-d_kp_20_879_ranking_single_cr0.9_mr0.1.txt
+
+
+============================================================
+START: daneAG/large_scale/knapPI_1_100_1000_1
+Parametry: sel=ranking, cross=single, cr=0.9, mr=0.05, pop=300, gens=1000, repair=True
+============================================================
+Pokolenie    0 | Najlepsza wartość: 2964
+Pokolenie   50 | Najlepsza wartość: 6081
+Pokolenie  100 | Najlepsza wartość: 6647
+Pokolenie  150 | Najlepsza wartość: 6962
+Pokolenie  200 | Najlepsza wartość: 6962
+Pokolenie  250 | Najlepsza wartość: 6962
+Pokolenie  300 | Najlepsza wartość: 7055
+Pokolenie  350 | Najlepsza wartość: 7055
+Pokolenie  400 | Najlepsza wartość: 7055
+Pokolenie  450 | Najlepsza wartość: 7055
+Pokolenie  500 | Najlepsza wartość: 7488
+Pokolenie  550 | Najlepsza wartość: 7488
+Pokolenie  600 | Najlepsza wartość: 7488
+Pokolenie  650 | Najlepsza wartość: 7945
+Pokolenie  700 | Najlepsza wartość: 7945
+Pokolenie  750 | Najlepsza wartość: 7945
+Pokolenie  800 | Najlepsza wartość: 7945
+Pokolenie  850 | Najlepsza wartość: 7945
+Pokolenie  900 | Najlepsza wartość: 7945
+Pokolenie  950 | Najlepsza wartość: 7945
+Pokolenie  999 | Najlepsza wartość: 7945
+
+==================================================
+CZAS WYKONANIA: 314.1 sekund (5.2 minut)
+NAJLEPSZE: 7945 / Optimum: 9147 (86.86%)
+Waga: 984/995
+==================================================
+Zapisano: hist_knapPI_1_100_1000_1_ranking_single_cr0.9_mr0.05.txt
+
+
+============================================================
+START: daneAG/large_scale/knapPI_1_100_1000_1
+Parametry: sel=roulette, cross=single, cr=0.9, mr=0.05, pop=300, gens=1000, repair=True
+============================================================
+Pokolenie    0 | Najlepsza wartość: 2870
+Pokolenie   50 | Najlepsza wartość: 5526
+Pokolenie  100 | Najlepsza wartość: 6034
+Pokolenie  150 | Najlepsza wartość: 6837
+Pokolenie  200 | Najlepsza wartość: 6837
+Pokolenie  250 | Najlepsza wartość: 7240
+Pokolenie  300 | Najlepsza wartość: 7240
+Pokolenie  350 | Najlepsza wartość: 7240
+Pokolenie  400 | Najlepsza wartość: 7244
+Pokolenie  450 | Najlepsza wartość: 7244
+Pokolenie  500 | Najlepsza wartość: 7244
+Pokolenie  550 | Najlepsza wartość: 7244
+Pokolenie  600 | Najlepsza wartość: 7701
+Pokolenie  650 | Najlepsza wartość: 7701
+Pokolenie  700 | Najlepsza wartość: 7701
+Pokolenie  750 | Najlepsza wartość: 7701
+Pokolenie  800 | Najlepsza wartość: 7829
+Pokolenie  850 | Najlepsza wartość: 7829
+Pokolenie  900 | Najlepsza wartość: 8657
+Pokolenie  950 | Najlepsza wartość: 8657
+Pokolenie  999 | Najlepsza wartość: 8657
+
+==================================================
+CZAS WYKONANIA: 310.1 sekund (5.2 minut)
+NAJLEPSZE: 8657 / Optimum: 9147 (94.64%)
+Waga: 992/995
+==================================================
+Zapisano: hist_knapPI_1_100_1000_1_roulette_single_cr0.9_mr0.05.txt
+
+
+============================================================
+START: daneAG/large_scale/knapPI_1_100_1000_1
+Parametry: sel=tournament, cross=single, cr=0.9, mr=0.05, pop=300, gens=1000, repair=True
+============================================================
+Pokolenie    0 | Najlepsza wartość: 2758
+Pokolenie   50 | Najlepsza wartość: 6044
+Pokolenie  100 | Najlepsza wartość: 6241
+Pokolenie  150 | Najlepsza wartość: 6248
+Pokolenie  200 | Najlepsza wartość: 6651
+Pokolenie  250 | Najlepsza wartość: 6736
+Pokolenie  300 | Najlepsza wartość: 6915
+Pokolenie  350 | Najlepsza wartość: 6915
+Pokolenie  400 | Najlepsza wartość: 7951
+Pokolenie  450 | Najlepsza wartość: 7951
+Pokolenie  500 | Najlepsza wartość: 7951
+Pokolenie  550 | Najlepsza wartość: 8751
+Pokolenie  600 | Najlepsza wartość: 8751
+Pokolenie  650 | Najlepsza wartość: 8751
+Pokolenie  700 | Najlepsza wartość: 8751
+Pokolenie  750 | Najlepsza wartość: 8751
+Pokolenie  800 | Najlepsza wartość: 8751
+Pokolenie  850 | Najlepsza wartość: 8751
+Pokolenie  900 | Najlepsza wartość: 8751
+Pokolenie  950 | Najlepsza wartość: 8751
+Pokolenie  999 | Najlepsza wartość: 8751
+
+==================================================
+CZAS WYKONANIA: 11.9 sekund (0.2 minut)
+NAJLEPSZE: 8751 / Optimum: 9147 (95.67%)
+Waga: 993/995
+==================================================
+Zapisano: hist_knapPI_1_100_1000_1_tournament_single_cr0.9_mr0.05.txt
+
+
+============================================================
+START: daneAG/large_scale/knapPI_2_100_1000_1
+Parametry: sel=ranking, cross=single, cr=0.9, mr=0.05, pop=300, gens=1000, repair=True
+============================================================
+Pokolenie    0 | Najlepsza wartość: 1115
+Pokolenie   50 | Najlepsza wartość: 1295
+Pokolenie  100 | Najlepsza wartość: 1345
+Pokolenie  150 | Najlepsza wartość: 1389
+Pokolenie  200 | Najlepsza wartość: 1389
+Pokolenie  250 | Najlepsza wartość: 1389
+Pokolenie  300 | Najlepsza wartość: 1389
+Pokolenie  350 | Najlepsza wartość: 1389
+Pokolenie  400 | Najlepsza wartość: 1389
+Pokolenie  450 | Najlepsza wartość: 1389
+Pokolenie  500 | Najlepsza wartość: 1389
+Pokolenie  550 | Najlepsza wartość: 1389
+Pokolenie  600 | Najlepsza wartość: 1389
+Pokolenie  650 | Najlepsza wartość: 1389
+Pokolenie  700 | Najlepsza wartość: 1389
+Pokolenie  750 | Najlepsza wartość: 1389
+Pokolenie  800 | Najlepsza wartość: 1389
+Pokolenie  850 | Najlepsza wartość: 1389
+Pokolenie  900 | Najlepsza wartość: 1389
+Pokolenie  950 | Najlepsza wartość: 1389
+Pokolenie  999 | Najlepsza wartość: 1389
+
+==================================================
+CZAS WYKONANIA: 313.2 sekund (5.2 minut)
+NAJLEPSZE: 1389 / Optimum: 1514 (91.74%)
+Waga: 971/995
+==================================================
+Zapisano: hist_knapPI_2_100_1000_1_ranking_single_cr0.9_mr0.05.txt
+
+
+============================================================
+START: daneAG/large_scale/knapPI_2_100_1000_1
+Parametry: sel=tournament, cross=single, cr=0.9, mr=0.05, pop=300, gens=1000, repair=True
+============================================================
+Pokolenie    0 | Najlepsza wartość: 1157
+Pokolenie   50 | Najlepsza wartość: 1447
+Pokolenie  100 | Najlepsza wartość: 1447
+Pokolenie  150 | Najlepsza wartość: 1447
+Pokolenie  200 | Najlepsza wartość: 1447
+Pokolenie  250 | Najlepsza wartość: 1447
+Pokolenie  300 | Najlepsza wartość: 1448
+Pokolenie  350 | Najlepsza wartość: 1448
+Pokolenie  400 | Najlepsza wartość: 1448
+Pokolenie  450 | Najlepsza wartość: 1448
+Pokolenie  500 | Najlepsza wartość: 1448
+Pokolenie  550 | Najlepsza wartość: 1448
+Pokolenie  600 | Najlepsza wartość: 1448
+Pokolenie  650 | Najlepsza wartość: 1448
+Pokolenie  700 | Najlepsza wartość: 1448
+Pokolenie  750 | Najlepsza wartość: 1448
+Pokolenie  800 | Najlepsza wartość: 1448
+Pokolenie  850 | Najlepsza wartość: 1448
+Pokolenie  900 | Najlepsza wartość: 1448
+Pokolenie  950 | Najlepsza wartość: 1448
+Pokolenie  999 | Najlepsza wartość: 1448
+
+==================================================
+CZAS WYKONANIA: 11.3 sekund (0.2 minut)
+NAJLEPSZE: 1448 / Optimum: 1514 (95.64%)
+Waga: 990/995
+==================================================
+Zapisano: hist_knapPI_2_100_1000_1_tournament_single_cr0.9_mr0.05.txt
