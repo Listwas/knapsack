@@ -36,6 +36,7 @@ value2 weight2
 ```
 
 **Optimum files:**
+
 Contain a single integer representing the known optimal value.
 
 ## Quick start
