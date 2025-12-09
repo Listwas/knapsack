@@ -38,7 +38,8 @@ class KnapsackGA:
         self.use_repair = use_repair
 
         self.n = len(items)
-        self.population = [self._random_chromosome() for _ in range(population_size)]
+        self.population = [self._random_chromosome()
+                           for _ in range(population_size)]
         self.best_history = []
 
     def _random_chromosome(self):
@@ -267,18 +268,16 @@ def run_experiment(
 if __name__ == "__main__":
     base = "daneAG/"
     print("\n" + "=" * 80)
-    print("ETAP 1/3, Ocena 3.5: Różne wartości mr i cr")
     print("=" * 80)
 
-    # exmaple test
     run_experiment(
-        data_path="daneAG/low-dimensional/f1_l-d_kp_10_269",
+        data_path="daneAG/low-dimensional/f10_l-d_kp_20_879",
         selection="ranking",
-        crossover="single",
+        crossover="double",
         cr=0.9,
         mr=0.05,
         pop_size=100,
-        gens=500,
+        gens=600,
         tournament_size=5,
         use_repair=False
     )
