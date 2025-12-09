@@ -270,51 +270,14 @@ if __name__ == "__main__":
     print("\n" + "=" * 80)
     print("=" * 80)
 
-    for path in [
-            base + "low-dimensional/f6_l-d_kp_10_60",
-        ]:
-            repair = "large_scale" in path
-            pop = 300 if repair else 100
-            gens = 1000 if repair else 400
-
-            # 4 różne kombinacje
-            run_experiment(
-                path,
-                selection="ranking",
-                crossover="single",
-                mr=0.01,
-                cr=0.90,
-                pop_size=pop,
-                gens=gens,
-                use_repair=repair,
-            )
-            run_experiment(
-                path,
-                selection="ranking",
-                crossover="single",
-                mr=0.05,
-                cr=0.90,
-                pop_size=pop,
-                gens=gens,
-                use_repair=repair,
-            )
-            run_experiment(
-                path,
-                selection="ranking",
-                crossover="single",
-                mr=0.10,
-                cr=0.90,
-                pop_size=pop,
-                gens=gens,
-                use_repair=repair,
-            )
-            run_experiment(
-                path,
-                selection="ranking",
-                crossover="single",
-                mr=0.05,
-                cr=0.60,
-                pop_size=pop,
-                gens=gens,
-                use_repair=repair,
-            )
+    run_experiment(
+        data_path="daneAG/low-dimensional/f1_l-d_kp_10_269",
+        selection="ranking",
+        crossover="double",
+        cr=0.9,
+        mr=0.05,
+        pop_size=100,
+        gens=500,
+        tournament_size=5,
+        use_repair=False
+    )
